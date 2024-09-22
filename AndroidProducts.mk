@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_ruyi.mk
+    $(LOCAL_DIR)/twrp_ruyi.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_ruyi-user \
-    omni_ruyi-userdebug \
-    omni_ruyi-eng
+    twrp_ruyi-user \
+    twrp_ruyi-userdebug \
+    twrp_ruyi-eng
